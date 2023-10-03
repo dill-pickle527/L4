@@ -1,0 +1,6 @@
+﻿  L4.cpp
+C:\Users\dylan\OneDrive\Desktop\Purdue\Semester 3\CGT215\L4\L4\L4.cpp(16,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Purdue\Semester 3\CGT215\L4\L4\L4.cpp(90,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Purdue\Semester 3\CGT215\L4\L4\L4.cpp(98,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Purdue\Semester 3\CGT215\L4\L4\L4.cpp(78,8): warning C4101: 'i': unreferenced local variable
+  L4.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Purdue\Semester 3\CGT215\L4\x64\Debug\L4.exe
